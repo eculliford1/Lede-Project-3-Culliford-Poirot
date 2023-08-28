@@ -32,7 +32,12 @@ Project 3 for Lede Program 2023
   
 **New skills**
 - I used photographs of real-life objects and my own drawings, instead of stock web images to design my project page. I shot the playing cards on white backgrounds but ended up removing them on the computer.  
--	I made a searchable table from my dataset and made my methodology and concerns about my data more transparent and part of the narrative within the project.
+-	I designed and created a multi-step data collection project using qualitative data 
+-	I made a searchable table from my dataset and made my methodology and concerns about my data more transparent and part of the narrative within the project. 
 
 **If I had more time...**
-- I would have liked to break out 
+-	I would have focused more on the analysis and using skills from Lede in that area too (will focus on this in Project 4)
+-	I would have liked to explore some of the themes I saw coming up while doing the data analysis and visualisation - e.g. whether male or female murderers were more likely to use particular weapons, or whether there were recurring clues (e.g. objects with initials on them that are often misinterpreted at first). Instead I just mentioned some of these in the text on the project page. I was also interested in analysing motive but I think that could be a whole other project and would involve a lot more thinking about how to turn complex qualitative data into quantitative.   
+-	I had also hoped to visualise the likely murderer in some kind of fun, composite way 
+-	I also wanted to do more with the real-life objects in the visualisation (e.g. using pages and covers from the books themselves, and materials or other clues mentioned in them)
+
