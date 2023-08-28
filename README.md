@@ -1,4 +1,4 @@
-# Lede-Project-3-Elizabeth-Culliford-Poirot
+# Lede-Project-3-Culliford-Poirot
 Project 3 for Lede Program 2023
 
 **THE CASE OF THE MISSING PROJECT**
