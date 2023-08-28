@@ -3,7 +3,7 @@ Project 3 for Lede Program 2023
 
 **THE CASE OF THE MISSING PROJECT**
 
-**Project page: https://eculliford1.github.io/Lede-Project-3-Elizabeth-Culliford-Poirot/**
+**Project page: https://eculliford1.github.io/Lede-Project-3-Culliford-Poirot/**
 
 **Aims:**
 -	To analyse the plots of Agatha Christie’s Poirot novels and determine likely formulas for these murder mysteries 
